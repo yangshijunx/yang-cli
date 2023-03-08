@@ -1,0 +1,7 @@
+node_modules/
+.vscode
+.idea
+package-lock.json
+# package 下的所有的node_modules
+packages/**/node_modules
+packages/**/package-lock.json
